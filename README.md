@@ -1,7 +1,6 @@
 # ubuntu-backgrounds-groovy
 
 ![AUR version](https://img.shields.io/aur/version/ubuntu-backgrounds-groovy?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/ubuntu-backgrounds-groovy-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/ubuntu-backgrounds-groovy-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/ubuntu-backgrounds-groovy)
 
 This repository contains build files to build the Arch Linux package `ubuntu-backgrounds-groovy`. Instead of building the
